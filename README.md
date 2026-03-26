@@ -14,3 +14,57 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Content is user-generated and unverified.
+1
+<div align="center"> <!-- Animated header --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=180&section=header&text=Tejaswini&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=18" width="100%"/> <!-- Typing animation --> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%9A%80;Building+real-world+solutions+%F0%9F%92%A1;Python+%7C+TypeScript+%7C+C%2B%2B" alt="Typing SVG" /> </a> <br/>
+Show Image
+ Show Image
+
+</div>
+👩‍💻 About Me
+Hey there! I'm Tejaswini — a passionate Computer Science student who loves turning ideas into working software. Whether it's a full-stack web app, a data-driven solution, or graphics practicals, I enjoy the challenge of building things that work and matter.
+
+🔭 Currently working on Medistock — a medical inventory management system
+🌱 Exploring TypeScript, React, and backend development
+💡 Interested in building impactful tools in healthcare, security, and mental health tech
+🏫 Pursuing my CS degree with a love for graphics, databases, and systems programming
+📍 Based in Nashik, Maharashtra, India
+🛠️ Tech Stack
+<div align="center">
+Languages
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+Frameworks & Tools
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+</div>
+🚀 Featured Projects
+<div align="center">
+Project	Description	Tech
+🏥 Medistock	Medical inventory management system with full client-server architecture	TypeScript, React, Node.js
+🔍 Criminal Project	Criminal data analysis and management system	Python
+🧠 Mental Health	Web platform focused on mental health awareness and support	HTML, CSS
+🗂️ Criminal Data Management	Database-driven criminal records system	—
+🎨 Computer Graphics	Graphics practicals & implementations	C++
+</div>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tejaswini0905&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswini0905&layout=compact&theme=tokyonight&hide_border=true" height="165"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswini0905&theme=tokyonight&hide_border=true" height="165"/> </div>
+📬 Let's Connect
+<div align="center">
+Show Image
+Show Image
+
+</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=100&section=footer" width="100%"/>
+"The best way to predict the future is to build it."
+
+</div>

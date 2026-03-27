@@ -8,45 +8,45 @@
 
 ## About
 
-Computer Science engineer who builds software that works in the real world — not just in demos.
+I build software for domains that have actual consequences - healthcare, legal data, financial systems. Not todo apps.
 
-My projects span **inventory management**, **criminal records systems**, **mental health platforms**, and **graphics engines** — different domains, same discipline: understand the workflow, model the data correctly, ship clean code. I gravitate toward typed languages and structured architectures because they hold up under complexity.
+My stack leans typed: TypeScript on the frontend and backend, C++ for systems work. I care about data modeling more than most people find comfortable at my level, and I tend to read the domain before writing any code. Projects I've shipped range from a full-stack medical inventory system to a criminal records database to graphics algorithms written from scratch in C++.
 
-Looking to join a team where software is the product, the domain is non-trivial, and engineering quality actually matters.
+I'm looking for a team working on hard problems in fintech or enterprise software, where the data is complex and getting it wrong actually matters.
 
 ---
 
 ## Technical Skills
 
-**Languages** &nbsp;|&nbsp; Python · TypeScript · C++ · JavaScript · SQL · HTML/CSS
+**Languages** &nbsp;|&nbsp; TypeScript · Python · C++ · JavaScript · SQL · HTML/CSS
 
-**Frontend** &nbsp;|&nbsp; React · Component-driven UI · REST API integration
+**Frontend** &nbsp;|&nbsp; React · REST API integration
 
-**Backend** &nbsp;|&nbsp; Node.js · Express · RESTful architecture · Client-server design
+**Backend** &nbsp;|&nbsp; Node.js · Express · relational databases · client-server architecture
 
-**Systems** &nbsp;|&nbsp; Data structures · OOP · Database design · File I/O · OpenGL (C++)
+**Systems** &nbsp;|&nbsp; data structures · OOP · database design · OpenGL
 
-**Tools** &nbsp;|&nbsp; Git · GitHub · VS Code · Linux
+**Tools** &nbsp;|&nbsp; Git · VS Code · Linux
 
 ---
 
 ## Projects
 
-### 🏥 Medistock — Medical Inventory Management System
+### 🏥 Medistock - Medical Inventory Management System
 `TypeScript` `React` `Node.js` `REST API`
 
-Full-stack platform for managing medical stock across a healthcare facility. Clean client-server separation: React frontend consuming a Node.js/Express REST API, with structured data flows for real-time stock tracking, updates, and reporting across multiple inventory categories.
+Stock management platform for a healthcare facility. React frontend, Node.js/Express API, structured flows for tracking inventory across multiple categories with updates and reporting. The interesting part wasn't the CRUD - it was getting the data model right so stock levels stayed accurate across concurrent operations.
 
-> The engineering challenges here — concurrent state, accurate record-keeping, audit trails — are the same ones that underpin financial transaction systems.
+The problems here (state consistency, audit trails, record integrity) are the same ones that show up in trade booking and financial data systems.
 
 🔗 [github.com/tejaswini0905/Medistock](https://github.com/tejaswini0905/Medistock)
 
 ---
 
 ### 🔍 Criminal Data Management System
-`Python` `Database Design` `CRUD Operations`
+`Python` `Database Design`
 
-Relational data management system for structured storage, querying, and lifecycle management of criminal records. Emphasis on data integrity constraints, efficient search across indexed fields, and clean separation between data access and application logic.
+Relational system for storing, querying, and managing criminal records. I spent more time on the schema and integrity constraints than on the application layer - which is probably the right call for a system where bad data has real consequences.
 
 🔗 [github.com/tejaswini0905/criminalDataManagement](https://github.com/tejaswini0905/criminalDataManagement)
 
@@ -55,16 +55,16 @@ Relational data management system for structured storage, querying, and lifecycl
 ### 🧠 Mental Health Web Platform
 `HTML` `CSS` `JavaScript`
 
-A web platform providing mental health information and support resources. Built with accessibility and clarity as design priorities.
+Web platform for mental health information and resources. Kept the design simple and the content accessible - the audience doesn't need clever UI, they need clarity.
 
 🔗 [github.com/tejaswini0905/mental-health](https://github.com/tejaswini0905/mental-health)
 
 ---
 
-### 🎨 Computer Graphics — Practicals & Implementations
+### 🎨 Computer Graphics - Practicals & Implementations
 `C++` `OpenGL`
 
-Academic implementations of core computer graphics concepts including transformations, projections, clipping algorithms, and rasterization — written in C++ from scratch.
+Transformations, clipping, projections, rasterization - all written in C++ without shortcuts. Good for understanding what's actually happening underneath the abstractions most people use and never think about.
 
 🔗 [github.com/tejaswini0905/ComputerGraphics](https://github.com/tejaswini0905/ComputerGraphics)
 
@@ -72,31 +72,23 @@ Academic implementations of core computer graphics concepts including transforma
 
 ## What I Bring
 
-```
-✔  Domain-first thinking — I understand the problem before touching the code
-✔  Full-stack depth — UI, API design, data modeling, client-server architecture
-✔  Typed-language discipline — TypeScript and C++ projects in production
-✔  Fast domain ramp-up — finance, healthcare, legal data: I learn the space quickly
-✔  Clean, maintainable code — readable by the next engineer, not just the compiler
-```
+I read the domain before I write the code. Financial software isn't just CRUD with money - the data model, the edge cases, and the audit requirements are where it gets hard. I've built systems where those things mattered and learned to take them seriously early.
+
+On the technical side: TypeScript across the stack, Python for data work, C++ when it has to be correct and fast. I pick up new frameworks without needing much handholding - the concepts transfer.
+
+The thing I care most about: code the next engineer can actually read.
 
 ---
 
-## GitHub Activity
+## Repositories
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejaswini0905&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)](https://github.com/tejaswini0905)
-&nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswini0905&layout=compact&theme=dark&hide_border=true)](https://github.com/tejaswini0905)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tejaswini0905&theme=react-dark&hide_border=true&area=true)](https://github.com/tejaswini0905)
-
-</div>
+| Project | Stack |
+|:--------|:------|
+| [Medistock](https://github.com/tejaswini0905/Medistock) | TypeScript · React · Node.js |
+| [Criminal Data Management](https://github.com/tejaswini0905/criminalDataManagement) | Python |
+| [Criminal Project](https://github.com/tejaswini0905/Criminal-Project) | Python |
+| [Mental Health Platform](https://github.com/tejaswini0905/mental-health) | HTML · CSS · JS |
+| [Computer Graphics](https://github.com/tejaswini0905/ComputerGraphics) | C++ · OpenGL |
 
 ---
 
